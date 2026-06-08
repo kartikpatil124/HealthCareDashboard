@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28721998/README.md)
+<img width="1425" height="802" alt="page-1-executive-overview" src="https://github.com/user-attachments/assets/f0683bf8-c108-4101-bfe1-159ab6d5866c" />[README.md](https://github.com/user-attachments/files/28721998/README.md)
 # Healthcare Intelligence Dashboard
 
 A premium dark-theme Power BI dashboard for healthcare analytics, built from the Kaggle **Healthcare Dataset**.  
@@ -7,7 +7,8 @@ This project focuses on patient insights, clinical risk, and revenue analysis wi
 ## Preview
 
 ### Page 1 — Executive Overview
-![Executive Overview](screenshots/page-1-executive-overview.png)
+![Executive Overview](<img width="1425" height="802" alt="page-1-executive-overview" src="https://github.com/user-attachments/assets/15009347-21b1-411e-93a8-da0e93d0cd28" />
+)
 
 ### Page 2 — Patient Intelligence
 ![Patient Intelligence](screenshots/page-2-patient-intelligence.png)
